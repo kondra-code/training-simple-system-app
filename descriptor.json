@@ -1,0 +1,8 @@
+{
+  "kos": {
+    "app": {
+      "appClass": "com.kondra.kos.training.simple.MySystemApp",
+      "appId": "system"
+    }
+  }
+}
